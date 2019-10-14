@@ -1,4 +1,3 @@
-# squad_six_repo
 ## Sudoku
 
 A fun, new remake of the classic game Sudoku through the use of `Tkinter` and `python`.
@@ -65,10 +64,6 @@ $ sudo pip3 install Pillow
 
 $ pip install pyinstaller
 
-$ git clone https://github.com/290squadsix/squad_six_repo.git
-
-$ cd squad_six_repo
-
 Next, to run the game enter the following:
 
 $ python3 sudoku_gui.py
@@ -82,12 +77,6 @@ Open your web browser and install python 3 if you haven't already done so:
 Link for python 3.7.2 installer (https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)
 
 Open your windows command prompt terminal
-
-Next, enter the following:
-
-$ git clone https://github.com/290squadsix/squad_six_repo.git
-
-$ cd squad_six_repo
 
 Next, to run the game enter the following:
 
@@ -103,6 +92,3 @@ $ py -3 sudoku_gui.py
 
 Enjoy!
 ----------------------------------------------------
-## License
-
-You can find a copy of the license at https://github.com/290squadsix/squad_six_repo/blob/master/LICENSE
